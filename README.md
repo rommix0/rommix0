@@ -55,7 +55,7 @@ The DECtalk DTC-01 decompiled to C and compiled into a dynamic library for use w
 <td width="50%" valign="top">
 
 **[First Byte's ProVoice](https://github.com/rommix0/First-Byte-ProVoice-Reborn)**<br>
-First Byte's ProVoice engine (Monologue and Smooth Talker), decompiled.
+First Byte's ProVoice engine (Monologue and Smooth Talker).
 
 </td>
 <td width="50%" valign="top">
