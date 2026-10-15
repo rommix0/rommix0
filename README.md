@@ -74,5 +74,13 @@ The successor to the Speech Plus Prose 2000 since Centigram acquired Speech Plus
 in the early 90s.
 
 </td>
+
+<td width="50%" valign="top">
+
+**[Dolphin's Apollo II](https://github.com/rommix0/Dolphin-Apollo-II-Reborn)**<br>
+A decompilation of the Dolphin Apollo II hardware speech synthesizer.
+A predecessor to Dolphin's later software-based Orpheus synthesizer.
+
+</td>
 </tr>
 </table>
