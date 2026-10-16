@@ -30,6 +30,14 @@ A video synthesizer program heavily inspired by Scanimate.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[drummer](https://github.com/rommix0/drummer)**<br>
+drum player inspired by Boss's DR-550 drum machine and "260 Drum Machine Patterns" by Rene-Pierre Bardet.
+
+</td>
+</tr>
 </table>
 
 ### Decompiled speech engines
