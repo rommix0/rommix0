@@ -1,6 +1,6 @@
 ## 🔊 About me
 
-- 🛠️ Software developer with experience programming in **C**, **Python**, and with **Claude**
+- 🛠️ Software developer with experience programming in **C**, **Python**, and **Claude**
 - 🔬 I've reverse engineered old speech synthesis software both by hand and with **Claude**
 - 📼 I'm geared towards making video and audio editing tools
 - 💼 **Currently looking for work.** Feel free to reach out!
