@@ -37,6 +37,12 @@ A video synthesizer program heavily inspired by Scanimate.
 drum player inspired by Boss's DR-550 drum machine and "260 Drum Machine Patterns" by Rene-Pierre Bardet.
 
 </td>
+<td width="50%" valign="top">
+
+**[spool](https://github.com/rommix0/spool)**<br>
+a versatile sound recorder/logger that uses a ring buffer to ensure no dropouts.
+
+</td>
 </tr>
 </table>
 
