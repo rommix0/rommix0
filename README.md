@@ -1,100 +1,109 @@
-## 🔊 About me
+# Hi, I'm Anthony Bartman 👋
 
-- 🛠️ Software developer with experience programming in **C**, **Python**, and **Claude**
-- 🔬 I've reverse engineered old speech synthesis software both by hand and with **Claude**
-- 📼 I'm geared towards making video and audio editing tools
-- 💼 **Currently looking for work.** Feel free to reach out!
+Software developer focused on **reverse engineering** and **audio/video tools**.
+I bring vintage speech synthesizers back to life by decompiling their original binaries into portable C,
+and I build creative tools for working with sound and video.
 
-### 📫 Get in touch
+💼 **Open to work.** The best way to reach me is by [email](mailto:abartman20@gmail.com).
 
-The best way to reach me is by [email](mailto:abartman20@gmail.com)
+### 🛠️ Skills
+
+- **Languages:** C, C++, Python, Rust
+- **Reverse engineering:** decompiling legacy binaries and firmware into buildable, maintainable C
+- **Audio & DSP:** speech synthesis, real-time audio recording, video synthesis
+- **Platforms:** cross-platform builds for Windows and Linux, including shared libraries for use by other programs
+- **AI-assisted development:** using Claude Code to speed up reverse engineering and tooling work
 
 ---
 
-## 🗣️ Featured projects
-
-### Flagship software
+## 🎛️ Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[klattEDIT](https://github.com/rommix0/klattEDIT)**<br>
-A Klatt parameter editor for the modern age. No need to dig out old school Unix nor run a 16-bit emulator anymore.
+**[klattEDIT](https://github.com/rommix0/klattEDIT)** · C<br>
+A Klatt parameter editor for the modern age. No more digging out old-school Unix or running a 16-bit emulator.
 
 </td>
 <td width="50%" valign="top">
 
-**[rasterwarp](https://github.com/rommix0/rasterwarp)**<br>
-A video synthesizer program heavily inspired by Scanimate.
+**[rasterwarp](https://github.com/rommix0/rasterwarp)** · Rust<br>
+A video synthesizer heavily inspired by Scanimate.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[drummer](https://github.com/rommix0/drummer)**<br>
-drum player inspired by Boss's DR-550 drum machine and "260 Drum Machine Patterns" by Rene-Pierre Bardet.
+**[spool](https://github.com/rommix0/spool)** · C++<br>
+A versatile sound recorder and logger that uses a ring buffer to guarantee no dropouts. Saves to BWF wave files and Opus.
 
 </td>
 <td width="50%" valign="top">
 
-**[spool](https://github.com/rommix0/spool)**<br>
-a versatile sound recorder/logger that uses a ring buffer to ensure no dropouts.
+**[drummer](https://github.com/rommix0/drummer)** · C<br>
+A drum pattern player inspired by the Boss DR-550 drum machine and *260 Drum Machine Patterns* by René-Pierre Bardet.
 
 </td>
 </tr>
 </table>
 
-### Decompiled speech engines
+## 🗣️ Decompiled speech engines
+
+These synthesizers powered accessibility devices and telephone systems in the 1980s and 90s, and their source code was never publicly available.
+I recovered each one by decompiling the original software or firmware into C that builds on modern systems.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **[Speech Plus Prose 2000](https://github.com/rommix0/prose2000_reborn)**<br>
-Speech Plus Prose 2000 (v1.1 and v3.4.1) decompiled to C. Builds as a dynamic library on Windows and Linux.
-A variant of the Prose called the CallText 5000/5010 was used by Stephen Hawking during his lifetime.
-The CallText firmware has yet to be found.
+Versions 1.1 and 3.4.1, decompiled to C and buildable as a shared library on Windows and Linux.
+The CallText 5010, a variant of the Prose, was Stephen Hawking's voice. Its firmware has yet to be found.
 
 </td>
 <td width="50%" valign="top">
 
 **[DECtalk DTC-01](https://github.com/rommix0/DECtalk-DTC-01-Reborn)**<br>
-The DECtalk DTC-01 decompiled to C and compiled into a dynamic library for use with other programs.
+DEC's 1984 DECtalk DTC-01, decompiled to C and built as a shared library for use by other programs.
+Also usable as a Windows voice through [SAPI 5](https://github.com/rommix0/DECtalk-DTC-01-SAPI5).
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[First Byte's ProVoice](https://github.com/rommix0/First-Byte-ProVoice-Reborn)**<br>
-First Byte's ProVoice engine (Monologue and Smooth Talker).
+**[First Byte ProVoice](https://github.com/rommix0/First-Byte-ProVoice-Reborn)**<br>
+The ProVoice engine behind First Byte's Monologue and Smooth Talker.
 
 </td>
 <td width="50%" valign="top">
 
-**[Telia Promotor's Infovox 230](https://github.com/rommix0/infovox-230-reborn)**<br>
-A decompiled version of Telia Promotor's Infovox 230 speech synthesizer.
+**[Telia Promotor Infovox 230](https://github.com/rommix0/infovox-230-reborn)**<br>
+A decompilation of the Infovox 230 speech synthesizer.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Centigram's Prose/TruVoice](https://github.com/rommix0/TruVoice)**<br>
-A command-line program for Centigram's TruVoice TTS speech synthesizer.
-The successor to the Speech Plus Prose 2000 since Centigram acquired Speech Plus
-in the early 90s.
+**[Centigram TruVoice](https://github.com/rommix0/TruVoice)**<br>
+A decompilation of Centigram's TruVoice synthesizer with a command-line program to drive it.
+TruVoice succeeded the Prose 2000 after Centigram acquired Speech Plus in the early 90s.
 
 </td>
-
 <td width="50%" valign="top">
 
-**[Dolphin's Apollo II](https://github.com/rommix0/Dolphin-Apollo-II-Reborn)**<br>
-A decompilation of the Dolphin Apollo II hardware speech synthesizer.
-A predecessor to Dolphin's later software-based Orpheus synthesizer.
+**[Dolphin Apollo II](https://github.com/rommix0/Dolphin-Apollo-II-Reborn)**<br>
+A decompilation of the Dolphin Apollo II hardware speech synthesizer,
+the predecessor to Dolphin's software-based Orpheus synthesizer.
 
 </td>
 </tr>
 </table>
+
+## 🧰 Also worth a look
+
+- **[ESPS for Windows](https://github.com/rommix0/ESPS-windows)**: Entropic's classic Speech Processing System, ported to modern Windows
+- **[SenSyn](https://github.com/rommix0/sensyn)**: Sensimetrics' SenSyn speech synthesizer (with my v2.5 updates) and Dennis Klatt's LSpecto, ready to build on Windows
