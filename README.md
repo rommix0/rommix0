@@ -56,7 +56,7 @@ A faithful emulation of the Ensoniq Mirage sampler keyboard from the 80s. Works 
 </td>
 <td width="50%" valign="top">
 
-**[Limewave](https://github.com/rommix0/limewave-repo)**<br>
+**[Limewave](https://github.com/rommix0/limewave)**<br>
 A sample/loop editor that can edit WAV files, and save to an SFZ instrument from a folder containing WAV files.
 
 </td>
