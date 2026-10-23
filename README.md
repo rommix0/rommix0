@@ -54,6 +54,12 @@ A drum pattern player inspired by the Boss DR-550 drum machine and *260 Drum Mac
 A faithful emulation of the Ensoniq Mirage sampler keyboard from the 80s. Works with Mirage disk images including the special Triton Soundprocess disk.
 
 </td>
+<td width="50%" valign="top">
+
+**[Limewave](https://github.com/rommix0/limewave-repo)**<br>
+A sample/loop editor that can edit WAV files, and save to an SFZ instrument from a folder containing WAV files.
+
+</td>
 </tr>
 </table>
 
