@@ -23,7 +23,7 @@ and I build creative tools for working with sound and video.
 <td width="50%" valign="top">
 
 **[klattEDIT](https://github.com/rommix0/klattEDIT)**<br>
-A Klatt parameter editor for the modern age. No more digging out old-school Unix or running a 16-bit emulator.
+A Klatt parameter editor for the modern age.
 
 </td>
 <td width="50%" valign="top">
@@ -37,7 +37,7 @@ A video synthesizer heavily inspired by Scanimate.
 <td width="50%" valign="top">
 
 **[spool](https://github.com/rommix0/spool)**<br>
-A versatile sound recorder and logger that uses a ring buffer to guarantee no dropouts. Saves to BWF wave files and Opus.
+A versatile sound recorder and logger that uses a ring buffer to heavily reduce dropouts. Saves to BWF wave files and Opus.
 
 </td>
 <td width="50%" valign="top">
