@@ -49,7 +49,7 @@ A drum pattern player inspired by the Boss DR-550 drum machine and *260 Drum Mac
 </tr>
 </table>
 
-## 🗣️ Decompiled speech engines
+## 🗣️ Old Text-To-Speech Preservation Projects
 
 These synthesizers powered accessibility devices and telephone systems in the 1980s and 90s, and their source code was never publicly available.
 I recovered each one by decompiling the original software or firmware into C that builds on modern systems.
