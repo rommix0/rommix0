@@ -51,7 +51,7 @@ A drum pattern player inspired by the Boss DR-550 drum machine and *260 Drum Mac
 <td width="50%" valign="top">
 
 **[Ensoniq Mirage Reborn](https://github.com/rommix0/mirage_reborn)**<br>
-A faithful emulation of the Ensoniq Mirage sampler keyboard from the 80s. Works with Mirage disk images including the special Triton Soundprocess disk.
+A faithful emulation of the Ensoniq Mirage sampler keyboard from the 80s. Works with Mirage disk images including the special Triton Soundprocess disk (an OS created by the late Mark Cecys of MacinTalk and VocalWriter fame).
 
 </td>
 <td width="50%" valign="top">
