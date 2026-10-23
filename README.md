@@ -22,13 +22,13 @@ and I build creative tools for working with sound and video.
 <tr>
 <td width="50%" valign="top">
 
-**[klattEDIT](https://github.com/rommix0/klattEDIT)** · C<br>
+**[klattEDIT](https://github.com/rommix0/klattEDIT)**<br>
 A Klatt parameter editor for the modern age. No more digging out old-school Unix or running a 16-bit emulator.
 
 </td>
 <td width="50%" valign="top">
 
-**[rasterwarp](https://github.com/rommix0/rasterwarp)** · Rust<br>
+**[rasterwarp](https://github.com/rommix0/rasterwarp)**<br>
 A video synthesizer heavily inspired by Scanimate.
 
 </td>
@@ -36,14 +36,22 @@ A video synthesizer heavily inspired by Scanimate.
 <tr>
 <td width="50%" valign="top">
 
-**[spool](https://github.com/rommix0/spool)** · C++<br>
+**[spool](https://github.com/rommix0/spool)**<br>
 A versatile sound recorder and logger that uses a ring buffer to guarantee no dropouts. Saves to BWF wave files and Opus.
 
 </td>
 <td width="50%" valign="top">
 
-**[drummer](https://github.com/rommix0/drummer)** · C<br>
+**[drummer](https://github.com/rommix0/drummer)**<br>
 A drum pattern player inspired by the Boss DR-550 drum machine and *260 Drum Machine Patterns* by René-Pierre Bardet.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Ensoniq Mirage Reborn](https://github.com/rommix0/mirage_reborn)**<br>
+A faithful emulation of the Ensoniq Mirage sampler keyboard from the 80s. Works with Mirage disk images including the special Triton Soundprocess disk.
 
 </td>
 </tr>
@@ -102,8 +110,3 @@ the predecessor to Dolphin's software-based Orpheus synthesizer.
 </td>
 </tr>
 </table>
-
-## 🧰 Also worth a look
-
-- **[ESPS for Windows](https://github.com/rommix0/ESPS-windows)**: Entropic's classic Speech Processing System, ported to modern Windows
-- **[SenSyn](https://github.com/rommix0/sensyn)**: Sensimetrics' SenSyn speech synthesizer (with my v2.5 updates) and Dennis Klatt's LSpecto, ready to build on Windows
