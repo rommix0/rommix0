@@ -115,4 +115,13 @@ the predecessor to Dolphin's software-based Orpheus synthesizer.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[MITalk-79](https://github.com/rommix0/mitalk_reborn)**<br>
+A faithful reconstruction of the MITalk text to speech system by Dennis Klatt.
+This system lays the foundation for what would become the later DECTalk DTC-01.
+
+</td>
+</tr>
 </table>
