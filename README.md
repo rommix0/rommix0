@@ -123,5 +123,11 @@ A faithful reconstruction of the MITalk text to speech system by Dennis Klatt.
 This system lays the foundation for what would become the later DECTalk DTC-01.
 
 </td>
+<td width="50%" valign="top">
+
+**[Witten79](https://github.com/rommix0/witten1979_tts)**<br>
+Reconstruction of Ian Witten's 1979 PAT synthesizer code cited from his research paper.
+
+</td>
 </tr>
 </table>
