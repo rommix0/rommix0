@@ -1,7 +1,7 @@
 # Hi, I'm Anthony Bartman 👋
 
 Software developer focused on **reverse engineering** and **audio/video tools**.
-I bring vintage speech synthesizers back to life by decompiling their original binaries into portable C,
+I have brought vintage speech synthesizers back to life by de-compiling their original binaries into portable C,
 and I build creative tools for working with sound and video.
 
 💼 **Open to work.** The best way to reach me is by [email](mailto:abartman20@gmail.com).
