@@ -65,8 +65,8 @@ A sample/loop editor that can edit WAV files, and save to an SFZ instrument from
 
 ## 🗣️ Old Text-To-Speech Preservation Projects
 
-These synthesizers powered accessibility devices and telephone systems in the 1980s and 90s, and their source code was never publicly available.
-I recovered each one by decompiling the original software or firmware into C that builds on modern systems.
+These synthesizers powered accessibility devices and telephone systems in the 1980s and 90s, and much of their source code has been lost to time.
+I recovered each one by de-compiling the original firmware ROMs into C that builds on modern systems.
 
 <table>
 <tr>
