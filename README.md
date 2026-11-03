@@ -4,7 +4,8 @@ Software developer and pro-AI advocator focused on **reverse engineering** and *
 I have brought vintage speech synthesizers back to life by de-compiling their original binaries into portable C,
 and I build creative tools for working with sound and video.
 
-💼 **Open to work.** The best way to reach me is by [email](mailto:abartman20@gmail.com).
+💼 **Open to work.** The best way to reach me is by email at
+[abartman20@gmail.com](mailto:abartman20@gmail.com).
 
 ### 🛠️ Skills
 
