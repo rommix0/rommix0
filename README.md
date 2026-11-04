@@ -1,6 +1,6 @@
 # Hi, I'm Anthony Bartman 👋
 
-Software developer and pro-AI advocate focused on **reverse engineering** and **audio/video tools**.
+Software developer and pro-AI advocate focused on **reverse engineering** and creating **audio** and **video tools**.
 I have brought vintage speech synthesizers back to life by de-compiling their original binaries into portable C,
 and I build creative tools for working with sound and video.
 
