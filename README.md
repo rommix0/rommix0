@@ -29,7 +29,7 @@ A Klatt parameter editor for the modern age.
 </td>
 <td width="50%" valign="top">
 
-**[rasterwarp](https://github.com/rommix0/rasterwarp)**<br>
+**[Rasterwarp](https://github.com/rommix0/rasterwarp)**<br>
 A video synthesizer heavily inspired by Scanimate.
 
 </td>
@@ -37,13 +37,13 @@ A video synthesizer heavily inspired by Scanimate.
 <tr>
 <td width="50%" valign="top">
 
-**[spool](https://github.com/rommix0/spool)**<br>
+**[Spool](https://github.com/rommix0/spool)**<br>
 A versatile sound recorder and logger that uses a ring buffer to heavily reduce dropouts. Saves to BWF wave files and Opus.
 
 </td>
 <td width="50%" valign="top">
 
-**[drummer](https://github.com/rommix0/drummer)**<br>
+**[Drummer](https://github.com/rommix0/drummer)**<br>
 A drum pattern player inspired by the Boss DR-550 drum machine and *260 Drum Machine Patterns* by René-Pierre Bardet.
 
 </td>
