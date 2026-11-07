@@ -90,7 +90,7 @@ The CallText 5010, a variant of the Prose, was Stephen Hawking's voice. Its firm
 
 **[DECtalk DTC-01](https://github.com/rommix0/DECtalk-DTC-01-Reborn)**<br>
 DEC's 1984 DECtalk DTC-01, decompiled to C and built as a shared library for use by other programs.
-Also usable as a Windows voice through [SAPI 5](https://github.com/rommix0/DECtalk-DTC-01-SAPI5).
+Also usable as a Windows voice through SAPI5.
 
 </td>
 </tr>
