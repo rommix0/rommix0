@@ -7,6 +7,8 @@ and I build creative tools for working with sound and video.
 💼 **Open to work.** The best way to reach me is by email at
 [abartman20@gmail.com](mailto:abartman20@gmail.com).
 
+☕ **Like what I do?** You can support me and my work through [GitHub Sponsors](https://github.com/sponsors/rommix0) or [PayPal](https://paypal.me/abartman20).
+
 ### 🛠️ Skills
 
 - **Languages:** C, C++, Python, Rust
