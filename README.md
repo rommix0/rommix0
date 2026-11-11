@@ -71,6 +71,12 @@ A faithful emulation of the Ensoniq KS-32 music keyboard.
 A sample/loop editor that can edit WAV files, and save to an SFZ instrument from a folder containing WAV files.
 
 </td>
+<td width="50%" valign="top">
+
+**[Glottis TTS](https://github.com/rommix0/glottis-tts)**<br>
+A fully functional formant speech synthesizer for Rust.
+
+</td>
 </tr>
 </table>
 
