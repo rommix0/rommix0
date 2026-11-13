@@ -6,6 +6,9 @@ and I build creative tools for working with sound and video.
 
 💼 **Open to work.** The best way to reach me is by email at
 [abartman20@gmail.com](mailto:abartman20@gmail.com).
+Real roles are welcome: please include the company, the role, and why my work fits.
+
+🚫 **No spam.** Mass or templated recruiter outreach, service pitches, promo links, and vague "opportunities" are ignored and may be reported and blocked, wherever they're sent (email, issues, PRs, or any of my repositories).
 
 ☕ **Like what I do?** You can support me and my work through [GitHub Sponsors](https://github.com/sponsors/rommix0) or [PayPal](https://paypal.me/abartman20).
 
