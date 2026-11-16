@@ -70,15 +70,25 @@ A faithful emulation of the Ensoniq KS-32 music keyboard.
 <tr>
 <td width="50%" valign="top">
 
+**[Ensoniq TS Reborn](https://github.com/rommix0/ensoniq-ts-reborn)**<br>
+A faithful emulation of the Ensoniq TS-10/TS-12 synthesizer workstations.
+
+</td>
+<td width="50%" valign="top">
+
 **[Limewave](https://github.com/rommix0/limewave)**<br>
 A sample/loop editor that can edit WAV files, and save to an SFZ instrument from a folder containing WAV files.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Glottis TTS](https://github.com/rommix0/glottis-tts)**<br>
 A fully functional formant speech synthesizer for Rust.
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
