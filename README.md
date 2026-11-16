@@ -71,7 +71,7 @@ A faithful emulation of the Ensoniq KS-32 music keyboard.
 <td width="50%" valign="top">
 
 **[Ensoniq TS Reborn](https://github.com/rommix0/ensoniq-ts-reborn)**<br>
-A faithful emulation of the Ensoniq TS-10/TS-12 synthesizer workstations.
+A faithful emulation of the Ensoniq TS-10 synthesizer workstation.
 
 </td>
 <td width="50%" valign="top">
