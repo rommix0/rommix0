@@ -22,9 +22,8 @@ Real roles are welcome: please include the company, the role, and why my work fi
 
 ---
 
-## 🛡️ How to Detect Job Offer Scams
+## 🛡️ [How to Detect Job Offer Scams](https://github.com/rommix0/how-to-detect-job-offer-scams)
 
-**[how-to-detect-job-offer-scams](https://github.com/rommix0/how-to-detect-job-offer-scams)**<br>
 A field guide for developers, especially those new to the field or working remotely, on spotting job offer scams before they cost you your identity, your money, or your machine.
 It includes a 30-second checklist and anonymized real case studies, like identity-rental "laptop farm" schemes.
 
