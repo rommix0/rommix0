@@ -94,6 +94,10 @@ A fully functional formant speech synthesizer for Rust.
 
 </td>
 <td width="50%" valign="top">
+
+**[Def Box 55](https://github.com/rommix0/def-box-55)**<br>
+An analog-style drum machine inspired by the Boss DR-55 Dr. Rhythm, for Windows and Linux as a standalone app and a VST3 instrument.
+
 </td>
 </tr>
 </table>
